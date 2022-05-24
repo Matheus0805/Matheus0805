@@ -1,9 +1,7 @@
 # Matheus
-## Olá , eu sou o Matheus,  
+## Olá , eu sou o Matheus Landim,  
 
-printf("Estudando front-end\n"); 
-Printf(Linguagens que estou estudando no momento C,C++,js e java \n");
-Console.log("Cursando engenharia elétrica na UNB");
+printf("Cursando engenharia elétrica na UNB");
 
 ##
  
